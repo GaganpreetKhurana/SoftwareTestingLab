@@ -1,35 +1,38 @@
 # Minor Project
+
 ## Financial_Assistant
 
 ## Group - 18
 
 **Mentor** - Prof. Sudesh Rani, Faculty, Computer Science and Engineering
 
-### Developers:
+### Developers
 
 - Vishal Thakur - 18103007
 - Gaganpreet Singh Khurana - 18103032
 - Shayan Yaseen - 18103033
 - Akshit Garg - 18103042
 
+## Project Execution
 
-## Project Execution:
-&nbsp;&nbsp;&nbsp;<img src="https://github.com/GaganpreetKhurana/Financial_Assistant/blob/master/Execution/DONNA%20_1.gif" width="50%" height="45%"><br><br>
+&nbsp;&nbsp;&nbsp;<img src="https://github.com/GaganpreetKhurana/SoftwareTestingLab/blob/master/Assignment%202/Execution/DONNA%20_1.gif" width="50%" height="45%"><br><br>
 
 **AI ChatBot** <br><br>
-&nbsp;&nbsp;&nbsp;<img src="https://github.com/GaganpreetKhurana/Financial_Assistant/blob/master/Execution/DONNA_2.gif" width="50%" height="45%"><br>
+&nbsp;&nbsp;&nbsp;<img src="https://github.com/GaganpreetKhurana/SoftwareTestingLab/blob/master/Assignment%202/Execution/DONNA_2.gif" width="50%" height="45%"><br>
 
-## Documentation:
+## Documentation
 
 [Summary](https://docs.google.com/document/d/e/2PACX-1vTOTM-U3jg__7pfAhukVKwP5QTQv3WoCXxfo-fjr5FjjX2IrqEN7Tc0SAIHljEXob_cXVm-KZLrUgwe/pub)
 
 ## Requirements
+
 <ul>
 <li><a href="https://www.python.org/downloads/release/python-379/">Python 3.7</a></li>
 <li><a href="https://www.npmjs.com/get-npm">npm 6.14.7</a></li>
 </ul>
 
 ## Run Instructions
+
 <ol>
     <li>Clone the repository.</li>
     <li>Add the following files.<code>secret_key.py</code> at backend/backend/
@@ -70,7 +73,7 @@
             <b>SETUP</b>
             - Run <code>install_requirements.bat</code> to setup the environment and install necessary packages.</li>
         <li>
-            <b>RUN</b> 
+            <b>RUN</b>
             - Run <code>donna.bat</code> to start the servers. Wait for the browser to open.</li>
             </ul>
         </li>
@@ -92,15 +95,14 @@
             </ol></li>
         </ul></li>
     </ul></li>
-</ol>   
+</ol>
 
-
-## Objectives:
+## Objectives
 
 **Currently Functional**
 
 - User can record their transactional activities
-- Can set the amazon tracker to track a particular item and predict the best time to buy it. 
+- Can set the amazon tracker to track a particular item and predict the best time to buy it.
 - Can manage their stock portfolio and get a prediction for a stock price/portfolio
 - User can interact with the system using a traditional web form or use the chatbot
 - Added multilingual interaction
@@ -109,7 +111,7 @@
 
 ---
 
-# Progress:
+# Progress
 
 1 August 2020 - 16 August 2020
 
@@ -134,7 +136,7 @@
 
 - We decided to use Django for the backend and React for the frontend
 - An appropriate period was used to learn the new framework
-- The project was divided into three modules trackers-chatbot, backend, and frontend 
+- The project was divided into three modules trackers-chatbot, backend, and frontend
 - The three sub-modules were developed to provide basic features in this period
 - Integration of the modules was absent in this period
 - This allowed us to avoid errors in integration when the codebase was turbulent
@@ -167,4 +169,3 @@
 
 - Added several features like Visualizations, Translations and text to speach
 - Issued several bugs fixes
-
