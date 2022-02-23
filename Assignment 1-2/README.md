@@ -85,9 +85,9 @@
     @enduml
     ```
   
-- **[Use Case Diagram](https://github.com/GaganpreetKhurana/SoftwareTestingLab/blob/master/Assignment%201/UseCase_Donna.puml)**
+- **[Use Case Diagram](https://github.com/GaganpreetKhurana/SoftwareTestingLab/blob/master/Assignment%201-2/UseCase_Donna.puml)**
     
-    ![Use Case Diagram](https://github.com/GaganpreetKhurana/SoftwareTestingLab/blob/master/Assignment%201/UseCase_Donna.png)
+    ![Use Case Diagram](https://github.com/GaganpreetKhurana/SoftwareTestingLab/blob/master/Assignment%201-2/UseCase_Donna.png)
 
     ### Code
     ```markdown
