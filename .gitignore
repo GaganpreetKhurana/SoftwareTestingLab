@@ -1,0 +1,5 @@
+venv
+.idea
+.vscode
+*.log
+Assignment 4/geckodriver.log
