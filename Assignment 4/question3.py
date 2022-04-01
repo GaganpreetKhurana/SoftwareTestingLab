@@ -7,6 +7,8 @@ from selenium import webdriver
 driver = webdriver.Firefox()
 
 url= "https://www.pec.ac.in"
+
 driver.get(url)
-print("URL: " + url)
+
+print("URL: " + driver.current_url)
 print("Title: "+ driver.title)
