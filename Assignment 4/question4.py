@@ -7,6 +7,7 @@ url= "index.html"
 filepath = Path(url).resolve().as_uri()
 driver.get(filepath)
 
+driver.save_screenshot("question4_Initial.png")
 # iterate unordered list
 print("Unordered List Elements:")
 for listElement in driver.find_elements(By.XPATH,"//ul[@id='unorderedList']//li"):
